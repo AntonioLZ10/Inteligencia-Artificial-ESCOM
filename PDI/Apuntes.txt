@@ -1,0 +1,9 @@
+Ecualización del histograma
+Para una imagen, dado un histograma es redistribuir los pixeles desde el punto de vista del Sistema Visual Humano
+Ecualizar=Distribuir de diferente forma los niveles de gris
+
+F(g)[gmax-gmin]P(gacum) + gmin
+
+Se hace una tabla en base al histograma, y se calcula la probabilidad en base a la aparición y total de elementos, después se calcula la probabilidad acumulada, después formulazo uwu
+
+1,1,2,4,4,6,8,8,9,9 
